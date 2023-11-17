@@ -49,6 +49,7 @@ android {
             checkReleaseBuilds false
         }
     }
+    namespace 'com.lukaslechner.coroutineusecasesonandroid'
 }
 
 dependencies {
